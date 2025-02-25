@@ -1,0 +1,22 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "This is a Capstone Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varunsingh-21/CAPSTONE_DevResolve.git"
+  },
+  "keywords": [
+    "capstone"
+  ],
+  "author": "Varun Deep Singh, Devarsh Limbachiya, Drashya Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varunsingh-21/CAPSTONE_DevResolve/issues"
+  },
+  "homepage": "https://github.com/Varunsingh-21/CAPSTONE_DevResolve#readme"
+}
